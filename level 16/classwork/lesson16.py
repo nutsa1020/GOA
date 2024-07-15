@@ -32,7 +32,7 @@ print(age + 10)
 
 
 #2
-name =("lizi")
+name =("nutsa")
 lastname=("macharashvili")
 print(name+lastname)
 
